@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "valdamien-profile",
   "version": "0.1.0",
   "author": "Guoumai Damien",
@@ -7,6 +8,16 @@
   "source": "git@github.com:Langmia10/puppet-profile.git",
   "project_page": "https://github.com/Langmia10/puppet-profile",
   "issues_url": "https://github.com/Langmia10/puppet-profile/issues",
+=======
+  "name": "valdamien-role",
+  "version": "0.1.0",
+  "author": "Guoumai Damien",
+  "summary": "This is role module",
+  "license": "Apache-2.0",
+  "source": "git@github.com:Langmia10/puppet-role.git",
+  "project_page": "https://github.com/Langmia10/puppet-role",
+  "issues_url": "https://github.com/Langmia10/puppet-role/issues",
+>>>>>>> 4c2d2bc129900296801ada93b8ab369902eca9d6
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",

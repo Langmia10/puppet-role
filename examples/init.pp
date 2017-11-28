@@ -9,4 +9,8 @@
 # Learn more about module testing here:
 # https://docs.puppet.com/guides/tests_smoke.html
 #
+<<<<<<< HEAD
 include ::profile
+=======
+include ::role
+>>>>>>> 4c2d2bc129900296801ada93b8ab369902eca9d6
